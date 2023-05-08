@@ -1,0 +1,22 @@
+{
+  "name": "whatsappautomationlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "automate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node indexx.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "qrcode-terminal": "^0.12.0",
+    "telegraf": "^4.12.2",
+    "telegram": "^2.16.4",
+    "whatsapp-web.js": "^1.19.5",
+    "wwebjs-mongo": "^1.1.0"
+  }
+}
